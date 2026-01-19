@@ -54,7 +54,6 @@ curl "wttr.in/Dhaka?format=3"
 | Lorem Picsum       | `picsum.photos/200/300`                               | Truly random high-quality photos           | Unlimited, very reliable            | ✅ Top  |
 | PlaceKitten        | `placekitten.com/200/300`                             | Cute random kitten placeholders            | Unlimited                           | ✅     |
 | PlaceDog           | `placedog.net/200/300`                                | Random dog photos                          | Unlimited                           | ✅     |
-| BaconMockup        | `baconmockup.com/640/400`                             | Funny bacon-themed placeholders            | Unlimited                           | ✅     |
 | Shibe.online       | `shibe.online/api/shibes?count=1`                     | Random Shiba Inu / cats / birds            | Generous                            | ✅     |
 | DummyJSON Image    | `dummyjson.com/image/400x200`                         | Custom size + text + color placeholders    | Unlimited                           | ✅     |
 | Placehold.co       | `placehold.co/600x400/png`                            | Modern placeholders (any format: png/webp) | Unlimited, fast                     | ✅     |
@@ -65,6 +64,12 @@ curl "wttr.in/Dhaka?format=3"
 ```html
 <img src="https://picsum.photos/800/600" alt="Random image">
 ```
+
+**Custom placeholder with text** (DummyJSON):
+```html
+<img src="https://dummyjson.com/image/400x200/282828/ffffff?text=Hello+Rubayet" alt="Placeholder">
+```
+
 
 ---
 
