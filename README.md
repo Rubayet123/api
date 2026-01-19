@@ -1,4 +1,4 @@
-# 🎯 Free Public APIs Collection (No Auth / No Key)
+# 🎯 Awesome APIs Collection (Free Public APIs)
 
 Collection of **currently working free public APIs** that **don't require authentication**, API keys or have very generous free tiers (updated 2025–2026).
 
