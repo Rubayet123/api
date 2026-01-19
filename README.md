@@ -66,6 +66,7 @@ These APIs provide current weather, forecasts, and sometimes historical data wit
 fetch('https://api.open-meteo.com/v1/forecast?latitude=23.8103&longitude=90.4125&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,sunrise,sunset&timezone=Asia%2FDhaka')
   .then(r => r.json())
   .then(data => console.log(data));
+```
 
 
 ---
