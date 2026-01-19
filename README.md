@@ -16,9 +16,6 @@ Collection of **currently working free public APIs** that **don't require authen
 - 💰 Finance / Crypto
 - ⚡ Others / Utilities
 
-## How to help / update
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Updated API List (January 2026)
 
