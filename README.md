@@ -1,6 +1,6 @@
 # 🎯 Free Public APIs
 
-Collection of **currently working** free public APIs that don't require authentication, API keys, or have extremely generous free tiers (updated January 2026).
+Collection of **currently working** free public APIs that don't require authentication, API keys, or have extremely generous free tiers.
 
 > ⚠️ **Important**: Free APIs can die or add restrictions suddenly.  
 > Last major update: January 19, 2026  
